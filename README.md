@@ -7,6 +7,8 @@
 - 📫 How to reach me **jean.paul.bassil@outlook.com**
 
 - 📄 Know about me [Personal Website](https://flowcv.me/jean-paul)
+  
+- 🌿 Currently studing OS, Probability & Statistics, Linear Algebra and Data Science.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
