@@ -8,7 +8,7 @@
 
 - 📄 Know about me [Personal Website](https://flowcv.me/jean-paul)
   
-- 🌿 Currently studing OS, Probability & Statistics, Linear Algebra and Data Science.
+- 🌿 Currently studing OS, Linear Algebra, Data Science and ANN.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
